@@ -88,6 +88,6 @@ console.log("The sum of", num1, "and", num2, "is", sum);
 - [![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ruben-martirosyan-050994256/)
 
 ## Footer
-[![github logo](./assets/github-logo.png)](https://github.com/RUBBOSS)
+[![github logo](./assets/github-logo.svg)](https://github.com/RUBBOSS)
 2023
-![rsschool_svg](./assets/rs_school_js.svg){style="width: 200px; width: 200px"}
+![rsschool_svg](./assets/rs_school.svg){style="width: 200px; width: 200px"}
