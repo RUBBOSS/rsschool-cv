@@ -90,4 +90,4 @@ console.log("The sum of", num1, "and", num2, "is", sum);
 ## Footer
 [![github logo](./assets/github-logo.svg)](https://github.com/RUBBOSS)
 2023
-![rsschool_svg](./assets/rs_school.svg){style="width: 200px; width: 200px"}
+![rsschool_svg](./assets/rs_school.svg){style="width: 100px; height: 100px"}
