@@ -2,7 +2,7 @@
 
 ## Header
 ### Rsschool cv
-![my avatar](./assets/avatar.jpg){style="margin-left: 50px"}
+![my avatar](./assets/avatar.jpg)
 - About
 - Contact me
 - Skills
