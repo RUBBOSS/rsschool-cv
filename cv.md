@@ -49,7 +49,7 @@ Web3 course
 Front-End Self-Paced Online Program
 
 ## W3schools
-![w3jpg](./assets/w3.png){style="height: 200px; width: 300px"}
+![w3jpg](./assets/w3.png)
 
 ## Code example
 function calculateSum(a, b) {
