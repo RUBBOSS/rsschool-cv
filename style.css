@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+body {
+    background-image: radial-gradient(circle, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    font-family: 'Nunito', sans-serif;
+    font-weight: 500;
+}
+
+.header, .nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+}
+
+li {
+    margin: 10px;
+    list-style: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.rs {
+    margin: 10px;
+}
+
+.name {
+    font-family: 'Caprasimo', cursive;
+    font-weight: 100;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(to bottom, #c6d5e5, #b8dbea, #abe1e6, #a8e6da, #b2e8c7)
+};
+
