@@ -25,6 +25,12 @@ body {
 li {
     margin: 10px;
     list-style: none;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
 
 .rs {
@@ -46,3 +52,4 @@ footer {
     justify-content: space-between;
     background-image: linear-gradient(to bottom, #c6d5e5, #b8dbea, #abe1e6, #a8e6da, #b2e8c7)
 };
+
